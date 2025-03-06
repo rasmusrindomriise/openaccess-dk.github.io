@@ -44,6 +44,7 @@ Dorte Andersen<br/><br/>
 
 **Royal Danish Library | Copenhagen University Library**<br/>
 Ane Ahrenkiel Sand<br/>
+Andreas Helles Pedersen<br/>
 Camma Juel Jepsen<br/>
 Christian Hagen Thomasen<br/>
 Katarina Smitt Engberg<br/>
@@ -77,4 +78,5 @@ Anne Lyhne Høj<br/>
 Kathrine Bjerg Bennike<br/><br/>
 
 **Aalborg University Hospital**<br/>
+Lasse Holm Thomsen<br/>
 Maria Pertou Østergaard<br/>
