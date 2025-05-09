@@ -35,6 +35,7 @@ Margrethe Gæk Bredahl<br/><br/>
 
 **Royal Danish Library | AU Library**<br/>
 Anna Mette Morthorst<br/>
+Anna Stegger Gemzøe<br/>
 Jesper Boserup Thestrup<br/>
 Mathias Johannes Michelsen<br/>
 Morten Hjorth Gad<br/><br/>
