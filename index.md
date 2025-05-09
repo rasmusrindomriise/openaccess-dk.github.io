@@ -50,7 +50,6 @@ Christian Hagen Thomasen<br/>
 Katarina Smitt Engberg<br/>
 Ragnheiður Mósesdóttir<br/>
 Rasmus Rindom Riise<br/>
-Rie Karen Marie Iversen<br/>
 Therese Møller<br/><br/>
 
 **Royal Danish Library | Roskilde University Library**<br/>
@@ -73,10 +72,9 @@ Søren Valdemar Welling<br/><br/>
 Birgit Truelsen Larsen<br/><br/>
 
 **Aalborg University**<br/>
-Anna Stegger Gemzøe<br/>
 Anne Lyhne Høj<br/>
-Kathrine Bjerg Bennike<br/><br/>
+Kathrine Bjerg Bennike<br/>
+Lasse Holm Thomsen<br/><br/>
 
 **Aalborg University Hospital**<br/>
-Lasse Holm Thomsen<br/>
 Maria Pertou Østergaard<br/>
