@@ -72,6 +72,7 @@ Søren Valdemar Welling<br/><br/>
 Birgit Truelsen Larsen<br/><br/>
 
 **Aalborg University**<br/>
+Amalie Vonge Tambasco<br/>
 Anne Lyhne Høj<br/>
 Kathrine Bjerg Bennike<br/>
 Lasse Holm Thomsen<br/><br/>
