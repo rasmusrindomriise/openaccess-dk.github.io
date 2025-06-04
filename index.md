@@ -66,8 +66,7 @@ Anne-Dorte Tækker Pedersen<br/><br/>
 
 **University of Southern Denmark**<br/>
 Mette Detlevsen<br/>
-Regine Ejstrup<br/>
-Søren Valdemar Welling<br/><br/>
+Regine Ejstrup<br/><br/>
 
 **VIA University College**<br/>
 Birgit Truelsen Larsen<br/><br/>
