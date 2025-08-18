@@ -49,6 +49,7 @@ Ane Ahrenkiel Sand<br/>
 Andreas Helles Pedersen<br/>
 Camma Juel Jepsen<br/>
 Christian Hagen Thomasen<br/>
+Dicte Bente Bak Damgaard Madsen<br/> 
 Katarina Smitt Engberg<br/>
 Ragnheiður Mósesdóttir<br/>
 Rasmus Rindom Riise<br/>
