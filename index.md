@@ -52,8 +52,7 @@ Christian Hagen Thomasen<br/>
 Dicte Bente Bak Damgaard Madsen<br/> 
 Katarina Smitt Engberg<br/>
 Ragnheiður Mósesdóttir<br/>
-Rasmus Rindom Riise<br/>
-Therese Møller<br/><br/>
+Rasmus Rindom Riise<br/><br/>
 
 **Royal Danish Library | Roskilde University Library**<br/>
 Sidse Louise Schelde<br/><br/>
