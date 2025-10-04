@@ -22,7 +22,7 @@ If you're a researcher, student, research support staff or simply curious about 
 
 ##### --> [SIGN UP FOR THE WEBINAR](https://forms.gle/uZcW4AEEyBRuxAseA) <--
 
-##### [BACK](https://openaccess.dk/oaw2024#programme-of-the-danish-open-access-week-2024)
+##### [BACK](https://openaccess.dk/OAW2025#programme-of-the-danish-open-access-week-2025)
 
 
 
