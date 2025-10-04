@@ -4,7 +4,7 @@ permalink: /OAW2025/thursday25
 layout: default
 ---
 
-#### Oct 23 | 13:00-14:00 (CEST):
+#### Oct 23 | 13:00-14:30 (CEST):
 
 ### Open Access Requirements in Horizon Europe and How to Ensure Compliance
 
