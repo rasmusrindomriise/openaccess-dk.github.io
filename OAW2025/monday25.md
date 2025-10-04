@@ -18,5 +18,5 @@ layout: default
 
 ##### --> [SIGN UP FOR THE WEBINAR](https://forms.gle/zsw6JWvfMvmy8hee7) <--
 
-##### [BACK](https://openaccess.dk/oaw2024#programme-of-the-danish-open-access-week-2024)
+##### [BACK](https://openaccess.dk/OAW2025#programme-of-the-danish-open-access-week-2025)
 
