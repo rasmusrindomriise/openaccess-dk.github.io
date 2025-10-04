@@ -4,7 +4,7 @@ permalink: /OAW2025/tuesday25
 layout: default
 ---
 
-#### Oct 21 | 13:00-14:00 (CEST):
+#### Oct 21 | 13:00-14:30 (CEST):
 
 ### Understanding Copyright, Open Access & Licensing
 
