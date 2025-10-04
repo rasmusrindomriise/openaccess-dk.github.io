@@ -28,7 +28,7 @@ What you'll learn:<br>
 
 ##### --> [SIGN UP FOR THE WEBINAR](https://forms.gle/L2g5g7zdjSd8R61E9) <--
 
-##### [BACK](https://openaccess.dk/oaw2024#programme-of-the-danish-open-access-week-2024)
+##### [BACK](https://openaccess.dk/OAW2025#programme-of-the-danish-open-access-week-2025)
 
 
 
