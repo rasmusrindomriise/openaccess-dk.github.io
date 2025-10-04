@@ -4,7 +4,7 @@ permalink: /OAW2025/monday25
 layout: default
 ---
 
-#### Oct 20 | 13:00-14:00 (CEST):
+#### Oct 20 | 13:00-14:30 (CEST):
 
 ### A Basic Introduction to Open Access
 
