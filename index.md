@@ -7,7 +7,7 @@ layout: default
 ### Danish Network for Open Access
 <a href="https://openaccess.dk/OAW2025">
   <img src="/OAW2025/images/oaw2025.jpg" alt="Open Access banner" style="height: 100%; width:100%;"/>
-</a>
+</a><br>
 
 
 The **Danish Network for Open Access** consists of employees from Danish educational institutions 
