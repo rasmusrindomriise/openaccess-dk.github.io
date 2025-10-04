@@ -1,21 +1,32 @@
 ---
-title: Tuesday
-permalink: /OAW2025/tuesday25
+title: Thursday
+permalink: /OAW2025/thursday25
 layout: default
 ---
 
-#### Oct 21 | 13:00-14:00 (CEST):
+#### Oct 24 | 13:00-14:00 (CEST):
 
-### Understanding Copyright, Open Access & Licensing
+### Open Access Requirements in Horizon Europe and How to Ensure Compliance
 
-#### Kasper Bøgh Pedersen, senior advisor - DTU Library
+#### Rasmus Rindom Riise, Senior Adviser - Royal Danish Library/Copenhagen University Library
 
-<img src="/OAW2025/images/kb.jpg" alt="Kasper Bøgh Pedersen" style="height: 25%; width:25%;"/>
+<img src="/oaw2024/images/rarr.png" alt="Rasmus Rindom Riise" style="height: 25%; width:25%;"/>
 
-<p>This webinar will be a practical introduction to copyright essentials, open access publishing, and licensing options tailored for Danish university staff. We’ll explore your rights as an author, Creative Commons licenses, and how to meet institutional and funder requirements. The session also includes a timely discussion on copyright and artificial intelligence—what you need to know as AI tools become part of research, teaching and support at the universities.</p>
-<p>Kasper Bøgh Pedersen is a librarian at the Technical University of Denmark, DTU. He has worked with copyright since 2007 in the DTU Copyright info DTU team, where he works with the amazing DTU copyright lawyers. He is a member of UBVA, the Committee for Protection of Academic Works, a standing committee under AC, the Academics Union. He also teaches Responsible Conduct of Research intro classes at DTU. </p>
+<p>In the wake of the launch of Plan S in 2018, funders are increasingly demanding immediate Open Access to research publications. The European Commission's Horizon Europe Research Framework is aligned with the principles of Plan S. This webinar will provide an introduction on how Horizon Europe grant holders comply with the programme’s Open Access requirements.<br>
+The webinar will focus on:<br>
+<div>
+  <ul>
+    <li>The principles of Plan S and the Open Access conditions from Horizon Europe </li>
+    <li>How to determine the journals' Open Access policies </li>
+    <li>How to find Open Access compliance </li>
+  </ul>
+</div>
+</p>
+<p>Rasmus works daily in the Department for Research Support Copenhagen University Library, where he supports researchers in Open Access publishing, among other tasks. Additionally, Rasmus is a member of the <a href="https://www.knowledge-exchange.info/projects/project/open-access">Knowledge Exchange Open Access Expert Group</a>, which works to promote Open Access infrastructure.</p>
 
-##### --> [SIGN UP FOR THE WEBINAR](https://forms.gle/GpHhcE9nsAwopas4A) <--
+##### --> [SIGN UP FOR THE WEBINAR](https://forms.gle/jecAn9N53EVJZbKDA) <--
 
 ##### [BACK](https://openaccess.dk/oaw2024#programme-of-the-danish-open-access-week-2024)
+
+
 
