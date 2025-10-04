@@ -6,7 +6,7 @@ layout: default
 
 #### Oct 20 | 13:00-14:00 (CEST):
 
-### A basic Introduction to Open Access
+### A Basic Introduction to Open Access
 
 #### Katarina Smitt Engberg - Royal Danish Library/Copenhagen University Library
 
