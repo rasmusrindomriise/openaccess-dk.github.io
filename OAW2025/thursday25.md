@@ -26,7 +26,7 @@ The webinar will focus on:<br>
 
 ##### --> [SIGN UP FOR THE WEBINAR](https://forms.gle/jecAn9N53EVJZbKDA) <--
 
-##### [BACK](https://openaccess.dk/oaw2024#programme-of-the-danish-open-access-week-2024)
+##### [BACK](https://openaccess.dk/OAW2025#programme-of-the-danish-open-access-week-2025)
 
 
 
