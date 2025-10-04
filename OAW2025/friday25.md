@@ -13,8 +13,8 @@ layout: default
 <img src="/OAW2025/images/mb.png" alt="Mareike Christina Harms Buss" style="height: 25%; width:25%;"/>
 
 <p>How can researchers and research support staff work together to make data truly FAIR? What does FAIR look like in real research workflows and how do you know when you’re getting it right?</p>
-<p></p>In this practical webinar, we’ll demystify the FAIR principles (Findable, Accessible, Interoperable, Reusable) and translate them into actionable steps across the research lifecycle. Designed for a broad audience, including early career researchers, support staff, and data stewards, this session combines foundational concepts with hands-on exploration and real-world case examples. Whether you’re just getting started or already supporting FAIR data initiatives, this session will help you deepen your understanding and sharpen your FAIR practice.</p>
-What you'll learn:<br>
+<p>In this practical webinar, we’ll demystify the FAIR principles (Findable, Accessible, Interoperable, Reusable) and translate them into actionable steps across the research lifecycle. Designed for a broad audience, including early career researchers, support staff, and data stewards, this session combines foundational concepts with hands-on exploration and real-world case examples. Whether you’re just getting started or already supporting FAIR data initiatives, this session will help you deepen your understanding and sharpen your FAIR practice.</p>
+<p>What you'll learn:</p>
 <div>
   <ul>
     <li>The key components and purpose of FAIR principles and how they differ from Open Data </li>
