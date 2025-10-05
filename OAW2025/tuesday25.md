@@ -8,7 +8,7 @@ layout: default
 
 ### Understanding Copyright, Open Access & Licensing
 
-#### Kasper Bøgh Pedersen, senior advisor - DTU Library
+#### Kasper Bøgh Pedersen, Senior Advisor - DTU Library
 
 <img src="/OAW2025/images/kb.jpg" alt="Kasper Bøgh Pedersen" style="height: 25%; width:25%;"/>
 
