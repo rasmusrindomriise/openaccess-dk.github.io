@@ -23,7 +23,7 @@ layout: default
 </div>
 <p>Rasmus works daily in the Department for Research Support Copenhagen University Library, where he supports researchers in Open Access publishing, among other tasks. Additionally, Rasmus is a member of the <a href="https://www.knowledge-exchange.info/projects/project/open-access">Knowledge Exchange Open Access Expert Group</a>, which works to promote Open Access infrastructure.</p>
 
-##### --> [SIGN UP FOR THE WEBINAR](https://forms.gle/jecAn9N53EVJZbKDA) <--
+##### --> <a href="https://forms.gle/jecAn9N53EVJZbKDA" target="_blank">SIGN UP FOR THE WEBINAR</a> <--
 
 ##### [BACK](https://openaccess.dk/OAW2025#programme-of-the-danish-open-access-week-2025)
 
