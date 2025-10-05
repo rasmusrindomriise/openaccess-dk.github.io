@@ -26,7 +26,7 @@ layout: default
 <p>Together we’ll explore what FAIR means in practice. Bring your questions and your curiosity! </p>
 <p>Mareike Christina Harms Buss is Senior Advisor for Research Data Management at CBS Library & Academic Services, Copenhagen Business School. With over 25 years’ experience in higher education and research support, she is passionate about helping researchers and students turn good data practices into everyday habits. At CBS she develops training programs, supports data management planning, and drives institutional strategy. Beyond CBS, Mareike is active in the Danish RDM Network, DeiC’s DM Advisory Forum, and the National FAIR Strategy working group D, as well as the Aurora University Alliance, the Research Data Alliance, and the EU project Skills4EOSC. She has co-created widely used learning resources, including the <a href="https://howtofair.dk/what-is-fair/#elearning-course-research-data-management-">Research Data Management e-learning course</a>, <a href="https://howtofair.dk/">HowtoFAIR.dk</a> and <a href="https://zenodo.org/records/2248200">A FAIRy Tale.</a></p>
 
-##### --> [SIGN UP FOR THE WEBINAR](https://forms.gle/L2g5g7zdjSd8R61E9) <--
+##### --> <a href="https://forms.gle/L2g5g7zdjSd8R61E9" target="_blank">SIGN UP FOR THE WEBINAR</a> <--
 
 ##### [BACK](https://openaccess.dk/OAW2025#programme-of-the-danish-open-access-week-2025)
 
