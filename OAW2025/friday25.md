@@ -1,5 +1,5 @@
 ---
-title: Thursday
+title: Friday
 permalink: /OAW2025/friday25
 layout: default
 ---
