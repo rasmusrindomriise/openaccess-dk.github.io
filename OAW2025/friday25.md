@@ -4,7 +4,7 @@ permalink: /OAW2025/friday25
 layout: default
 ---
 
-#### Oct 24 | 12:30-14:00 (CEST):
+#### NEW DATE!: Oct 31 | 12:30-14:00 (CEST):
 
 ### FAIR in Practice: Enabling Research That’s Findable, Accessible, Interoperable, and Reusable
 
