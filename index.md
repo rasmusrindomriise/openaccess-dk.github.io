@@ -46,7 +46,6 @@ Dorte Andersen<br/><br/>
 **Royal Danish Library | Copenhagen University Library**<br/>
 Ane Ahrenkiel Sand<br/>
 Camma Juel Jepsen<br/>
-Christian Hagen Thomasen<br/>
 Dicte Bente Bak Damgaard Madsen<br/> 
 Katarina Smitt Engberg<br/>
 Rasmus Rindom Riise<br/><br/>
@@ -68,6 +67,10 @@ Regine Ejstrup<br/><br/>
 
 **VIA University College**<br/>
 Birgit Truelsen Larsen<br/><br/>
+
+**VIVE - The Danish Center for Social Science Research**<br/>
+Rikke Blaabjerg<br/>
+Therese Østergaard Møller<br/><br/>
 
 **Aalborg University**<br/>
 Amalie Vonge Tambasco<br/>
