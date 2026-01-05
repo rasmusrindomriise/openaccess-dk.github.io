@@ -45,12 +45,10 @@ Dorte Andersen<br/><br/>
 
 **Royal Danish Library | Copenhagen University Library**<br/>
 Ane Ahrenkiel Sand<br/>
-Andreas Helles Pedersen<br/>
 Camma Juel Jepsen<br/>
 Christian Hagen Thomasen<br/>
 Dicte Bente Bak Damgaard Madsen<br/> 
 Katarina Smitt Engberg<br/>
-Ragnheiður Mósesdóttir<br/>
 Rasmus Rindom Riise<br/><br/>
 
 **Royal Danish Library | Roskilde University Library**<br/>
