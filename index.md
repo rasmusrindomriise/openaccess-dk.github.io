@@ -70,7 +70,7 @@ Birgit Truelsen Larsen<br/><br/>
 
 **VIVE - The Danish Center for Social Science Research**<br/>
 Rikke Blaabjerg<br/>
-Therese Østergaard Møller<br/><br/>
+Therese Møller<br/><br/>
 
 **Aalborg University**<br/>
 Amalie Vonge Tambasco<br/>
