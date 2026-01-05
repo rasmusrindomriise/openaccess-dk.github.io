@@ -5,11 +5,6 @@ layout: default
 ---
 
 ### Danish Network for Open Access
-<a href="https://openaccess.dk/OAW2025">
-  <img src="/OAW2025/images/OAWeek2025_2.jpg" alt="Open Access banner" style="height: 100%; width:100%;"/>
-</a><br><br>
-
-
 The **Danish Network for Open Access** consists of employees from Danish educational institutions 
 who deal with the dissemination as well as operational and developmental issues in relation to Open Access. 
 The purpose of the Network is to be a forum for knowledge sharing and discussion on practical issues and challenges 
