@@ -79,6 +79,7 @@ Therese Møller<br/><br/>
 Amalie Vonge Tambasco<br/>
 Anne Lyhne Høj<br/>
 Kathrine Bjerg Bennike<br/>
+Larissa Kennel<br/>
 Lasse Holm Thomsen<br/><br/>
 
 **Aalborg University Hospital**<br/>
