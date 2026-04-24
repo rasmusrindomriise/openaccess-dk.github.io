@@ -48,6 +48,7 @@ Ane Ahrenkiel Sand<br/>
 Camma Juel Jepsen<br/>
 Dicte Bente Bak Damgaard Madsen<br/> 
 Katarina Smitt Engberg<br/>
+Lars Winther Hartvig</br>
 Rasmus Rindom Riise<br/><br/>
 
 **Royal Danish Library | Roskilde University Library**<br/>
