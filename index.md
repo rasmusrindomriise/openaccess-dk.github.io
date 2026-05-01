@@ -17,7 +17,8 @@ The Network is organized independent of stakeholder organizations and projects/f
 
 **Copenhagen Business School**<br/>
 Claus Rosenkrantz Hansen<br/>
-Lene Janussen Gry<br/><br/>
+Lene Janussen Gry<br/>
+Silke Birch Pontoppidan<br/><br/>
 
 **Danish Institute for International Studies**<br/>
 Maiken Vinter Bjerrum<br/><br/>
