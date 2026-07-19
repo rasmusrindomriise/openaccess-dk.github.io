@@ -6,5 +6,5 @@ layout: default
 
 ### Find your Open Access support
 
-<li>[Copenhagen Business School](https://openaccess.dk/OAW2025)</li>
+<li>[Copenhagen Business School](https://libguides.cbs.dk/openaccess)</li>
 
