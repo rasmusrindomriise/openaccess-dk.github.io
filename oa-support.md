@@ -21,4 +21,5 @@ layout: default
 <li><a href="https://library.via.dk/research-development/open-access/" target="_blank" rel="noopener noreferrer">VIA University College</a></li>
 <li><a href="https://www.researcher.aau.dk/guides/publishing/open-access" target="_blank" rel="noopener noreferrer">Aalborg University
 </a></li>
+<li><a href="https://aalborguh.rn.dk/For-sundhedsfaglige/Medicinsk-Bibliotek/Open-Access" target="_blank" rel="noopener noreferrer">Aalborg University Hospital</a></li>
 <li><a href="https://medarbejdere.au.dk/en/open-access" target="_blank" rel="noopener noreferrer">Aarhus University</a></li>
