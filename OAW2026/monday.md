@@ -16,8 +16,6 @@ layout: default
 <p>Katarina Smitt Engberg has a PhD in Musicology, and has since 2022 been working with Open Access and Open Science at the Royal Danish Library, Copenhagen University Library. She is part of the support team for the national publishing platform for academic journals, <a href="https://tidsskrift.dk/">tidsskrift.dk</a>, and is engaged in several networks and projects aiming at advancing Open Access publishing in Denmark and abroad.
 </p>
 
-##### --> <a href="https://forms.gle/zsw6JWvfMvmy8hee7" target="_blank">SIGN UP FOR THE WEBINAR</a> <--
-
 ##### [BACK](https://openaccess.dk/OAW2025#programme-of-the-danish-open-access-week-2025)
-
+<hr>
 <div id="form_56d50fed851241fb88cdcf16869534f6"></div><script type="text/javascript" src="https://ku-dk.libwizard.com/form_loader.php?id=56d50fed851241fb88cdcf16869534f6&noheader=0"></script>
