@@ -1,14 +1,14 @@
 ---
 title: Monday
-permalink: /oaw2026/monday26
+permalink: /oaw2026/monday1
 layout: default
 ---
 
-#### Oct 20 | 13:00-14:30 (CEST):
+#### Oct 19 | 10:00-11:00 (CEST):
 
-### A Basic Introduction to Open Access
+### TITLE
 
-#### Katarina Smitt Engberg - Royal Danish Library/Copenhagen University Library
+#### NAME - INSTITUTION
 
 <img src="/oaw2024/images/kase.jpg" alt="Katarina Smitt Engberg" style="height: 25%; width:25%;"/>
 
