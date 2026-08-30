@@ -17,4 +17,5 @@ layout: default
 </p>
 <hr>
 <div id="form_56d50fed851241fb88cdcf16869534f6"></div><script type="text/javascript" src="https://ku-dk.libwizard.com/form_loader.php?id=56d50fed851241fb88cdcf16869534f6&noheader=0"></script>
+
 ##### [BACK](https://openaccess.dk/OAW2025#programme-of-the-danish-open-access-week-2025)
