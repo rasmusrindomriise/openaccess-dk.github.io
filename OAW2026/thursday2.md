@@ -5,6 +5,7 @@ layout: default
 ---
 
 <p>Oct 22 | 13:00-14:30 (CEST):</p>
+Oct 22 | 13:00-14:30 (CEST):
 
 ### Introduction to FAIR: Enabling Research That’s Findable, Accessible, Interoperable, and Reusable
 
