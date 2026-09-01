@@ -23,8 +23,6 @@ What you'll learn:</p>
   </ul>
 </div>
 <p>Mareike Christina Harms Buss is Chief Advisor for Research Data Management at CBS Library & Academic Services, Copenhagen Business School. With over 25 years’ experience in higher education and research support, she is passionate about helping researchers and students turn good data practices into everyday habits. At CBS she develops training programs, supports data management planning, and drives institutional strategy. Beyond CBS, Mareike is active in national and international networks. She has co-created widely used learning resources, including the <a href="https://howtofair.dk/what-is-fair/#elearning-course-research-data-management-" target="_blank">Research Data Management e-learning course</a>, <a href="https://howtofair.dk/" target="_blank">HowtoFAIR.dk</a> and <a href="https://zenodo.org/records/2248200" target="_blank">A FAIRy Tale.</a></p>
+<div id="form_fbd02abb51e7f02c86d1b32dcbc68806"></div><script type="text/javascript" src="https://ku-dk.libwizard.com/form_loader.php?id=fbd02abb51e7f02c86d1b32dcbc68806&noheader=1"></script>
 
-##### [BACK](https://openaccess.dk/OAW2026#programme-of-the-danish-open-access-week-2026)
-
-
-
+##### [Back to programme](https://openaccess.dk/OAW2026#programme-of-the-danish-open-access-week-2026)
