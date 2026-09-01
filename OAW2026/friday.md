@@ -4,7 +4,7 @@ permalink: /OAW2026/friday
 layout: default
 ---
 
-#### Oct 22 | 13:00-14:00 (CEST):
+#### Oct 23 | 13:00-14:00 (CEST):
 
 ### AAU OPEN: Two Years of University-Led Diamond Open Access Publishing
 
