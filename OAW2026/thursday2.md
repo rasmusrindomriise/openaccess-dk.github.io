@@ -1,5 +1,5 @@
 ---
-title: Thursdag
+title: Thursday
 permalink: /OAW2026/thursday2
 layout: default
 ---
