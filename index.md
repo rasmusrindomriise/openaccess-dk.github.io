@@ -4,6 +4,12 @@ permalink: /
 layout: default
 ---
 
+<a href="https://openaccess.dk/OAW2026">
+  <img src="/OAW2026/images/oaw2026.jpg" 
+       alt="Open Access banner" 
+       style="height: 100%; width: 100%;"/>
+</a>
+
 ### Danish Network for Open Access
 The **Danish Network for Open Access** consists of employees from Danish educational institutions 
 who deal with the dissemination as well as operational and developmental issues in relation to Open Access. 
