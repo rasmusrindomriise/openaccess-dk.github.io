@@ -16,8 +16,7 @@ layout: default
 AAU OPEN provides free and open access to a broad range of research and dissemination outputs, including monographs, edited volumes, reports, book series, journals, and other publication formats. 
 </p>
 
-<p>We publish books and other scholarly publications on the national Open Access platform, Open Books. We also host AAU's Open Access journals through AAU OPEN Journals and serve as the publisher of Aalborg University's PhD theses.
-Drawing on two years of experience establishing and running a university-owned Diamond Open Access publisher, we will share key lessons learned, discuss priorities and challenges, and reflect on future opportunities. We will also explore how we support authors and maintain high standards of quality and scholarly integrity across our publications.</p>
+<p>We publish books and other scholarly publications on the national Open Access platform, <a href="https://openbooks.kb.dk/" target="_blank">Open Books</a>. We also host AAU's Open Access journals through <a href="https://www.en.aau.dk/journals.aau.dk" target="_blank">AAU OPEN Journals</a> and serve as the publisher of Aalborg University's <a href="https://homes.aub.aau.dk/sv/themes/phd/phd.html" target="_blank">PhD theses</a>. Drawing on two years of experience establishing and running a university-owned Diamond Open Access publisher, we will share key lessons learned, discuss priorities and challenges, and reflect on future opportunities. We will also explore how we support authors and maintain high standards of quality and scholarly integrity across our publications.</p>
 
 <p>This webinar may be of interest to anyone who would like to learn more about operating a Diamond Open Access publisher and its role in a changing scholarly communication landscape, where dissemination, accessibility, and research assessment are increasingly interconnected.</p>
 
