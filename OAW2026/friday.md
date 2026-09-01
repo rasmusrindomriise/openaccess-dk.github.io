@@ -6,7 +6,7 @@ layout: default
 
 #### Oct 22 | 13:00-14:00 (CEST):
 
-### Diamond OA books – shining new perspectives
+### AAU OPEN: Two Years of University-Led Diamond Open Access Publishing
 
 #### Kathrine Bjerg Bennike, Senior Consultant at Aalborg University Library and Lead of AAU OPEN. 
 
