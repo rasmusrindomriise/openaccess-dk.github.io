@@ -80,8 +80,7 @@ Regine Ejstrup<br/><br/>
 Birgit Truelsen Larsen<br/><br/>
 
 **VIVE - The Danish Center for Social Science Research**<br/>
-Rikke Blaabjerg<br/>
-Therese Møller<br/><br/>
+Rikke Blaabjerg<br/><br/>
 
 **Aalborg University**<br/>
 Amalie Vonge Tambasco<br/>
