@@ -6,16 +6,14 @@ layout: default
 
 #### Oct 19 | 10:00-11:00 (CEST):
 
-### TITLE
+### Title
 
-#### NAME - INSTITUTION
+#### Name
 
-<img src="/oaw2024/images/kase.jpg" alt="Katarina Smitt Engberg" style="height: 25%; width:25%;"/>
+<img src="https://asdlib.org/wp-content/uploads/2021/11/no-image.jpg" alt="No image" style="height: 25%; width:25%;"/>
 
-<p>This presentation will go through the basics of Open Access publishing: What it is, in comparison to the subscription model, the most common Open Access types, and the role that copyright and licensing play when you publish Open Access. In addition, the talk will introduce the national waiver agreements with publishers, and present some of the tools that you can use to look up a journal’s Open Access policy or identify Open Access journals within your discipline.</p>
-<p>Katarina Smitt Engberg has a PhD in Musicology, and has since 2022 been working with Open Access and Open Science at the Royal Danish Library, Copenhagen University Library. She is part of the support team for the national publishing platform for academic journals, <a href="https://tidsskrift.dk/">tidsskrift.dk</a>, and is engaged in several networks and projects aiming at advancing Open Access publishing in Denmark and abroad.
-</p>
-<hr>
-<div id="form_56d50fed851241fb88cdcf16869534f6"></div><script type="text/javascript" src="https://ku-dk.libwizard.com/form_loader.php?id=56d50fed851241fb88cdcf16869534f6&noheader=0"></script>
+<p>Text to come</p>
+<p>Text to come</p>
+<div id="form_fbd02abb51e7f02c86d1b32dcbc68806"></div><script type="text/javascript" src="https://ku-dk.libwizard.com/form_loader.php?id=fbd02abb51e7f02c86d1b32dcbc68806&noheader=1"></script>
 
-##### [BACK](https://openaccess.dk/OAW2025#programme-of-the-danish-open-access-week-2025)
+##### [Back to programme](https://openaccess.dk/OAW2026#programme-of-the-danish-open-access-week-2026)
