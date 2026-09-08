@@ -10,7 +10,7 @@ layout: default
 
 #### Anne-Marie Søndergaard Christensen, Professor, Department of Design, Media and Educational Science, University of Southern Denmark
 
-<img src="https://www.sdu.dk/-/media/images/forskning/nhc/om-nhc/fellows-2026/anne_marie_soendergaard_christensen.jpg?h=450&iar=0&w=300&hash=08D9E8F410F2899835E4C00F5C7085E2" alt="Anne-Marie Søndergaard Christensen" style="height: 25%; width:25%;"/>
+<img src="/OAW2026/images/amsc.jpg" alt="Anne-Marie Søndergaard Christensen" style="height: 25%; width:25%;"/>
 
 #### Lars Boje Mortensen, Professor, Department of Culture and Language, University of Southern Denmark
 
