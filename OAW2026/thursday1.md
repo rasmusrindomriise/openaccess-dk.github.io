@@ -14,7 +14,7 @@ layout: default
 
 #### Lars Boje Mortensen, Professor, Department of Culture and Language, University of Southern Denmark
 
-<img src=/OAW2026/images/lbm.jpg" alt="Lars Boje Mortensen" style="height: 25%; width:25%;"/>
+<img src="/OAW2026/images/lbm.jpg" alt="Lars Boje Mortensen" style="height: 25%; width:25%;"/>
 
 #### Mikkel Gerken, Professor, Department of Design, Media and Educational Science, University of Southern Denmark
 
