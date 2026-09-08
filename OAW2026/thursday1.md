@@ -22,6 +22,6 @@ layout: default
 
 <p>Description is coming soon</p>
 
-<div id="form_fbd02abb51e7f02c86d1b32dcbc68806"></div><script type="text/javascript" src="https://ku-dk.libwizard.com/form_loader.php?id=fbd02abb51e7f02c86d1b32dcbc68806&noheader=1"></script>
+<div id="form_c9a6e0a0224a5a13ea468e7df7898368"></div><script type="text/javascript" src="https://ku-dk.libwizard.com/form_loader.php?id=c9a6e0a0224a5a13ea468e7df7898368&noheader=0"></script>
 
 ##### [Back to programme](https://openaccess.dk/OAW2026#programme-of-the-danish-open-access-week-2026)
