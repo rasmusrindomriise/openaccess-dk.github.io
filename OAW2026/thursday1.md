@@ -14,11 +14,11 @@ layout: default
 
 #### Lars Boje Mortensen, Professor, Department of Culture and Language, University of Southern Denmark
 
-<img src="https://www.sdu.dk/-/media/images/forskning/dias/people-at-dias/dias-affiliates/new+bw+square+portraits/lars-boje-(2).jpg?h=2216&iar=0&w=2217&hash=59D2E6093B270910D8E20CD0D084A5B0" alt="Lars Boje Mortensen" style="height: 25%; width:25%;"/>
+<img src=/OAW2026/images/lbm.jpg" alt="Lars Boje Mortensen" style="height: 25%; width:25%;"/>
 
-#### Anne-Marie Søndergaard Christensen, Professor, Department of Design, Media and Educational Science, University of Southern Denmark
+#### Mikkel Gerken, Professor, Department of Design, Media and Educational Science, University of Southern Denmark
 
-<img src="https://dm.dk/media/hjnjtpjy/mikkel-gerken.jpg?width=615&height=400&format=webp&quality=80&v=1dc1d7b50c03930" alt="Mikkel Gerken" style="height: 25%; width:25%;"/>
+<img src="/OAW2026/images/mg.jpg" alt="Mikkel Gerken" style="height: 25%; width:25%;"/>
 
 <p>Description is coming soon</p>
 
