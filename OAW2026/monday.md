@@ -4,7 +4,7 @@ permalink: /OAW2026/monday1
 layout: default
 ---
 
-#### Oct 19 | 10:00-11:00 (CEST):
+#### Oct 19 | 10:00-11:30 (CEST):
 
 ### Understanding Copyright, Open Access, Licensing & AI
 
