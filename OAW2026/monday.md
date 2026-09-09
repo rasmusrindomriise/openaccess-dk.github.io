@@ -1,14 +1,14 @@
 ---
 title: Monday
-permalink: /OAW2026/monday1
+permalink: /OAW2026/monday
 layout: default
 ---
 
-#### Oct 19 | 10:00-11:30 (CEST):
+#### Oct 19 | 13:00-14:30 (CEST):
 
 ### Understanding Copyright, Open Access, Licensing & AI
 
-#### Kasper Bøgh Pedersen, Senior Advisor - DTU Library
+#### Kasper Bøgh Pedersen, Senior Advisor, DTU Library
 
 <img src="https://openaccess.dk/OAW2025/images/kb.jpg" alt="Kasper Bøgh Pedersen" style="height: 25%; width:25%;"/>
 
