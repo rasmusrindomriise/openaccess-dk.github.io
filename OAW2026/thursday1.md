@@ -22,7 +22,7 @@ layout: default
 
 <p>We will sketch how we see the current situation for Diamond Open Access in the humanities and each provide a snapshot from our own experience with DOA publishing. In addition, we want to discuss the obstacles in the funding landscape, the potential growth of DOA publishing and the challenges of quality control and ranking in an emergent system. We also want to take the opportunity to ask the gathered Danish OA librarian expertise some questions!</p>
 
-<p>The speakers are the authors of the article <a href="https://sciencereport.dk/debat/open-access-blev-kuppet-af-de-store-forlag-med-nyt-forsoeg-kan-vi-tage-kontrollen-tilbage/" target="_blank"><i>Open Access blev kuppet af de store forlag - med en ny model kan vi tage kontrollen tilbage</i></a>, which has attracted considerable attention. The presentation will draw, among other things, on this article.</p>
+<p>The speakers are the authors of the article <a href="https://sciencereport.dk/debat/open-access-blev-kuppet-af-de-store-forlag-med-nyt-forsoeg-kan-vi-tage-kontrollen-tilbage/" target="_blank"><i>Open Access blev kuppet af de store forlag - med en ny model kan vi tage kontrollen tilbage</i></a>, which has attracted considerable attention.</p>
 
 <p>Mikkel Gerken (PhD UCLA 2007) is Professor of Philosophy at the University of Southern Denmark. His research falls within philosophy of science and epistemology and currently concerns science skepticism and science-informed policy. He has experience with Diamond Open Access journal as an associate editor or <a href="https://journals.publishing.umich.edu/ergo/" target="_blank"><i>ERGO – an open access journal of philosophy.</i></a></p>
 
