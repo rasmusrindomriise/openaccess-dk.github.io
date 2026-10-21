@@ -30,6 +30,6 @@ layout: default
 
 <p><b>Lars Boje Mortensen</b> is Professor of Ancient and Medieval Cultural History at the University of Southern Denmark. His main fields of research are medieval literature, Latin literature and historiography, pre-modern book history and theory of literary history. He has since 2015 been the chief editor of the DOA journal, <a href="https://riviste.unimi.it/interfaces" target="_blank"><i>Interfaces – a journal of European medieval literatures</i></a> (University of Milan).</p>
 
-<div id="form_c9a6e0a0224a5a13ea468e7df7898368"></div><script type="text/javascript" src="https://ku-dk.libwizard.com/form_loader.php?id=c9a6e0a0224a5a13ea468e7df7898368&noheader=0"></script>
+###  REGISTRATION CLOSED
 
 ##### [Back to programme](https://openaccess.dk/OAW2026#programme-of-the-danish-open-access-week-2026)
