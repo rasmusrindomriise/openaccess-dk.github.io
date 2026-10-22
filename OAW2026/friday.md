@@ -21,6 +21,7 @@ AAU OPEN provides free and open access to a broad range of research and dissemin
 <p>This webinar may be of interest to anyone who would like to learn more about operating a Diamond Open Access publisher and its role in a changing scholarly communication landscape, where dissemination, accessibility, and research assessment are increasingly interconnected.</p>
 
 <p>Kathrine Bjerg Bennike is a Senior Consultant at Aalborg University Library and Lead of AAU OPEN. She has played a central role in establishing both the Open Access competence unit and the publishing platform. Kathrine holds a PhD in the social sciences and works with Open Science, Open Access publishing, research assessment, scholarly communication, and research dissemination.</p>
-<div id="form_80389730a88ec282b3ded496067dd5dd"></div><script type="text/javascript" src="https://ku-dk.libwizard.com/form_loader.php?id=80389730a88ec282b3ded496067dd5dd&noheader=0"></script>
+
+### REGISTRATION CLOSED
 
 ##### [Back to programme](https://openaccess.dk/OAW2026#programme-of-the-danish-open-access-week-2026)
